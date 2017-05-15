@@ -1,5 +1,5 @@
-FROM alpine:edge
-MAINTAINER tim@haak.co
+FROM armhf/alpine:edge
+MAINTAINER nicolas@corrarello.com
 
 ENV LANG='en_US.UTF-8' \
     LANGUAGE='en_US.UTF-8' \
